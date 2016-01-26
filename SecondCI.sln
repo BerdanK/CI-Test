@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondCI", "SecondCI\SecondCI.csproj", "{0579B0F6-7C29-4C3B-8891-972C3FD35762}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecondCI.Tests", "SecondCI.Tests\SecondCI.Tests.csproj", "{CD7A69C8-CD7F-4016-A3B2-A4F1694097E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0579B0F6-7C29-4C3B-8891-972C3FD35762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0579B0F6-7C29-4C3B-8891-972C3FD35762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0579B0F6-7C29-4C3B-8891-972C3FD35762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0579B0F6-7C29-4C3B-8891-972C3FD35762}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD7A69C8-CD7F-4016-A3B2-A4F1694097E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD7A69C8-CD7F-4016-A3B2-A4F1694097E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD7A69C8-CD7F-4016-A3B2-A4F1694097E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD7A69C8-CD7F-4016-A3B2-A4F1694097E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
